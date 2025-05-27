@@ -1,0 +1,7 @@
+openai
+python-dotenv
+langchain-nvidia-ai-endpoints
+langchain_community
+faiss-cpu
+streamlit
+pypdf
